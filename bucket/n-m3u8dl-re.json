@@ -9,7 +9,7 @@
             "ffmpeg-nightly"
         ]
     },
-    "url": "https://github.com/nilaoda/N_m3u8DL-RE/releases/download/v0.1.5.2-beta/N_m3u8DL-RE_Beta_win-x64_20221221.zip",
+    "url": "https://github.com/nilaoda/N_m3u8DL-RE/releases/download/v0.1.5.3-beta/N_m3u8DL-RE_Beta_win-x64_20230111.zip",
     "bin": [
         "N_m3u8DL-RE_Beta_win-x64/N_m3u8DL-RE.exe",
         [
